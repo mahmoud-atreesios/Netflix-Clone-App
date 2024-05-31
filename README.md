@@ -19,3 +19,16 @@ It is a native iOS mobile application that allows the user to browse the upcomin
   <img src="https://github.com/mahmoud-atreesios/Netflix-iOS/assets/136765078/2ae13141-64ae-4678-9f69-c0884c4e4874" alt="Download" width="30%" />
   <img src="https://github.com/mahmoud-atreesios/Netflix-iOS/assets/136765078/32e3e49e-2e48-434c-930e-0c9b111ff3d1" alt="Trailer" width="30%" />
 </p>
+
+## Used Technologies
+- Swift 
+- Uikit (without using storyboards)
+- MVVM
+- Coredata
+- Tabbar
+- Search Bar
+- Table view
+- Collection View
+- Firebase Authentication
+- Youtube API
+- TMDB API
